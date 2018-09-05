@@ -7,7 +7,7 @@
 ## Favorite things about Purdue CS193
   -There are a lot of computers
   -The TAs are helpful
-  -We get to learn new things 
+  -The building is very nice
  
 
 
